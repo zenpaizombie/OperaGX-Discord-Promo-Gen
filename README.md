@@ -20,5 +20,5 @@ This github repo is for EDUCATIONAL PURPOSES ONLY. We Are NOT under any responsi
 
 ## ✨ Issues / Doubts
 
-- If you have any questions do not hesitate to enter my discord/telegram: https://discord.gg/s6K7WEQugA & t.me/H4cK3dR4Du
+- If you have any questions do not hesitate to enter my discord: https://discord.gg/vps4free
 - Or if you have any error do not forget to report it in: [issues](https://github.com/H4cK3dR4Du/OperaGX-Discord-Promo-Gen/issues/new)
